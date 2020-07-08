@@ -22,4 +22,6 @@
   'RainLab\\Pages\\Classes\\SnippetManager' => 'plugins\\rainlab\\pages\\classes\\SnippetManager.php',
   'RainLab\\Pages\\Classes\\Controller' => 'plugins\\rainlab\\pages\\classes\\Controller.php',
   'RainLab\\Pages\\Classes\\PageList' => 'plugins\\rainlab\\pages\\classes\\PageList.php',
-  
+  'backend\\Controllers\\preferences' => 'modules\\backend\\controllers\\preferences.php',
+  'backend\\Controllers\\media' => 'modules\\backend\\controllers\\media.php',
+);
